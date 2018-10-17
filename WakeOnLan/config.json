@@ -1,0 +1,10 @@
+{
+  "Devices": [
+    {
+      "IPAddress": "127.0.0.1",
+      "Subnet": "255.255.255.0",
+      "MacAddress": "00:00:00:00:00:00",
+      "Name": "Sample Device Name"
+    }
+  ]
+}
